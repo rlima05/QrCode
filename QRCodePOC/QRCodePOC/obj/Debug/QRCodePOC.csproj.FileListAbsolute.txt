@@ -1,0 +1,8 @@
+C:\Users\raphael.l.fernandes\source\repos\QRCodePOC\QRCodePOC\bin\Debug\QRCodePOC.exe.config
+C:\Users\raphael.l.fernandes\source\repos\QRCodePOC\QRCodePOC\bin\Debug\QRCodePOC.exe
+C:\Users\raphael.l.fernandes\source\repos\QRCodePOC\QRCodePOC\bin\Debug\QRCodePOC.pdb
+C:\Users\raphael.l.fernandes\source\repos\QRCodePOC\QRCodePOC\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\raphael.l.fernandes\source\repos\QRCodePOC\QRCodePOC\obj\Debug\QRCodePOC.csprojResolveAssemblyReference.cache
+C:\Users\raphael.l.fernandes\source\repos\QRCodePOC\QRCodePOC\obj\Debug\QRCodePOC.csproj.CoreCompileInputs.cache
+C:\Users\raphael.l.fernandes\source\repos\QRCodePOC\QRCodePOC\obj\Debug\QRCodePOC.exe
+C:\Users\raphael.l.fernandes\source\repos\QRCodePOC\QRCodePOC\obj\Debug\QRCodePOC.pdb
